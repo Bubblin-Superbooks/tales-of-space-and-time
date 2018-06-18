@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Tales of Space and Time",
-  "type": "text"
+  "type": "text",
+  "book_id": 562
 }
